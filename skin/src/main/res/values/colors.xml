@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_bg">#E91E63</color>
+    <color name="color_btn">#FF9800</color>
+
+
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#E91E63</color>
+    <color name="colorAccent">#E91E63</color>
+
+    <color name="tabSelectedTextColor">#E91E63</color>
+
+</resources>
